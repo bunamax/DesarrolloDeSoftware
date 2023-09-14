@@ -1,4 +1,4 @@
-# Trabajo Práctuci N°2
+# Trabajo Práctico N°2
 
 
 En la primera parte del código, importé de una página los iconos que agregaré a mi código, incluyendo el icono del carrito de compras. Creé un estilo para un botón 
