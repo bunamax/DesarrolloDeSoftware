@@ -12,3 +12,7 @@ navegación que permiten al cliente ver el producto desde distintos ángulos (te
 descripción. Por último, agregué el precio, el botón de "Comprar ahora" y al lado el carrito que había creado previamente en el syle.
 
 Ya terminando, agregué otras flechas de navegación para cambiar entre productos. Finalmente, tenemos el pie de página de la página web.
+
+Para ver la página puede acceder al siguiente URL:
+
+https://bunamax.github.io/DesarrolloDeSoftware/TrabajoPractico2/index.html
